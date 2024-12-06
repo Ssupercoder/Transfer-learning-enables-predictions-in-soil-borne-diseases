@@ -8,3 +8,4 @@ accuracy and important features, followed by an interpretable analysis of these 
 the SMOTE algorithm, and the results show that the SMOTE-Transformer model performs well, surpassing the training results of the voting and stacking strategies, with an 
 accuracy reaching 90%. We have also deployed the SMOTE-Transformer model on sequencing data, which has an accuracy of over 80%. The construction of SMOTE-Transformer model 
 provides a new idea for soil microbial data analysis by greatly improving the accuracy and robustness of soil microbial data processing tools.
+Concact：Lei Xin（2835838600@qq.com) Wuhan University
