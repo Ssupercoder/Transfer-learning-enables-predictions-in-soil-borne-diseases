@@ -1,4 +1,4 @@
-# readme
+# Transfer learning enables predictions in soil-borne diseases
 Inhibiting the occurrence of soil-borne diseases is considered as the most favorable approach for promoting sustainable agricultural development. Constructing soil disease 
 prediction models can serve precision agriculture. However, the analysis results of the metaframework often contradict each other, causing inconsistency in the important 
 features of machine learning results. Therefore, it is necessary to compare the classification accuracy of various machine learning models and further optimize the features of 
